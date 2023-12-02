@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\obj\Debug\net7.0\Homevork_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\obj\Debug\net7.0\Homevork_04.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\obj\Debug\net7.0\Homevork_04.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\obj\Debug\net7.0\Homevork_04.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\bin\Debug\net7.0\Homevork_04.exe
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\bin\Debug\net7.0\Homevork_04.deps.json
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\bin\Debug\net7.0\Homevork_04.runtimeconfig.json
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\bin\Debug\net7.0\Homevork_04.dll
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\bin\Debug\net7.0\Homevork_04.pdb
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\obj\Debug\net7.0\Homevork_04.dll
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\obj\Debug\net7.0\refint\Homevork_04.dll
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\obj\Debug\net7.0\Homevork_04.pdb
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\obj\Debug\net7.0\Homevork_04.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\git education\Seminar_04\Homevork_04\obj\Debug\net7.0\ref\Homevork_04.dll
